@@ -1,6 +1,6 @@
 ## Olá, eu sou o José Carlos
 
-- 🌱 Estudando:  JavaScript
+- 🌱 Estudando:  JavaScript e SQL
 - 😄 Pronomes: ele/dele
 
 <div>
